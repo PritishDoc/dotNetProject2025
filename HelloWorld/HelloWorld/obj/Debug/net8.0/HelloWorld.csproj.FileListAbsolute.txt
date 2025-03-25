@@ -1,0 +1,15 @@
+D:\Program\git-repo\.NetProject2025\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\Program\git-repo\.NetProject2025\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\Program\git-repo\.NetProject2025\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\Program\git-repo\.NetProject2025\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\Program\git-repo\.NetProject2025\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\Program\git-repo\.NetProject2025\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\git-repo\.NetProject2025\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Program\git-repo\.NetProject2025\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\Program\git-repo\.NetProject2025\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Program\git-repo\.NetProject2025\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+D:\Program\git-repo\.NetProject2025\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\Program\git-repo\.NetProject2025\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\Program\git-repo\.NetProject2025\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\Program\git-repo\.NetProject2025\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\Program\git-repo\.NetProject2025\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

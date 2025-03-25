@@ -1,0 +1,15 @@
+D:\Program\git-repo\.NetProject2025\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.exe
+D:\Program\git-repo\.NetProject2025\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.deps.json
+D:\Program\git-repo\.NetProject2025\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.runtimeconfig.json
+D:\Program\git-repo\.NetProject2025\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.dll
+D:\Program\git-repo\.NetProject2025\MyAdditionCalculator\MyAdditionCalculator\bin\Debug\net8.0\MyAdditionCalculator.pdb
+D:\Program\git-repo\.NetProject2025\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\git-repo\.NetProject2025\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.AssemblyInfoInputs.cache
+D:\Program\git-repo\.NetProject2025\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.AssemblyInfo.cs
+D:\Program\git-repo\.NetProject2025\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.csproj.CoreCompileInputs.cache
+D:\Program\git-repo\.NetProject2025\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.sourcelink.json
+D:\Program\git-repo\.NetProject2025\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.dll
+D:\Program\git-repo\.NetProject2025\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\refint\MyAdditionCalculator.dll
+D:\Program\git-repo\.NetProject2025\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.pdb
+D:\Program\git-repo\.NetProject2025\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\MyAdditionCalculator.genruntimeconfig.cache
+D:\Program\git-repo\.NetProject2025\MyAdditionCalculator\MyAdditionCalculator\obj\Debug\net8.0\ref\MyAdditionCalculator.dll
