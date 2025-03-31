@@ -1,0 +1,15 @@
+D:\Program\git-repo\.NetProject2025\Method\Method\bin\Debug\net8.0\Method.exe
+D:\Program\git-repo\.NetProject2025\Method\Method\bin\Debug\net8.0\Method.deps.json
+D:\Program\git-repo\.NetProject2025\Method\Method\bin\Debug\net8.0\Method.runtimeconfig.json
+D:\Program\git-repo\.NetProject2025\Method\Method\bin\Debug\net8.0\Method.dll
+D:\Program\git-repo\.NetProject2025\Method\Method\bin\Debug\net8.0\Method.pdb
+D:\Program\git-repo\.NetProject2025\Method\Method\obj\Debug\net8.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\git-repo\.NetProject2025\Method\Method\obj\Debug\net8.0\Method.AssemblyInfoInputs.cache
+D:\Program\git-repo\.NetProject2025\Method\Method\obj\Debug\net8.0\Method.AssemblyInfo.cs
+D:\Program\git-repo\.NetProject2025\Method\Method\obj\Debug\net8.0\Method.csproj.CoreCompileInputs.cache
+D:\Program\git-repo\.NetProject2025\Method\Method\obj\Debug\net8.0\Method.sourcelink.json
+D:\Program\git-repo\.NetProject2025\Method\Method\obj\Debug\net8.0\Method.dll
+D:\Program\git-repo\.NetProject2025\Method\Method\obj\Debug\net8.0\refint\Method.dll
+D:\Program\git-repo\.NetProject2025\Method\Method\obj\Debug\net8.0\Method.pdb
+D:\Program\git-repo\.NetProject2025\Method\Method\obj\Debug\net8.0\Method.genruntimeconfig.cache
+D:\Program\git-repo\.NetProject2025\Method\Method\obj\Debug\net8.0\ref\Method.dll
